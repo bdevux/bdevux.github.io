@@ -1,1 +1,13 @@
-theme: jekyll-theme-architect
+# Site settings
+name: Blockchain DevUx Group
+title: Blockchain DevUx Group
+email: koichi.matsuda@infobahn.co.jp
+description: ブロックチェーン勉強会　毎月渋谷で開催 # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://bdevux.github.io" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
